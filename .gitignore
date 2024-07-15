@@ -1,0 +1,7 @@
+.idea
+*.log
+/composer.lock
+.env
+vendor/
+uploads/
+nbproject/
